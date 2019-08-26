@@ -1,3 +1,3 @@
-# Casual-Racer
+# Casual Racer
 
 Тут будет ссылка на статью
