@@ -1,3 +1,3 @@
 # Casual Racer
 
-Тут будет ссылка на статью
+https://skillbox.ru/media/gamedev/sozdayem_prostuyu_3d_gonku_na_unity/
